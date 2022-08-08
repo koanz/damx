@@ -1,0 +1,14 @@
+{
+  "name": "damn-expenses",
+  "version": "1.0.0",
+  "description": "App to keep track of personal expenses. Either monthly or historical",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cristian Koshiro Anzawa",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^6.5.0"
+  }
+}
